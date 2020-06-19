@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FWJYMCPycYeTNxbxk/Z9PG9DYJBeB3uv8BO4zVfF5epdc/Vkmf61jKszOeV6ywyaPHG7+mBGi4m/LVIPvRcJAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pozit\\OneDrive\\Рабочий стол\\Only For Me\\C#\\CyrillicDomain\\Library\\CyrillicDomain\\CyrillicDomain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pozit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pozit\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
